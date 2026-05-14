@@ -2,6 +2,17 @@
 
 노래 악기 사운드 조절해서 악보 따는 용으로 만듦.
 
+# 다운 방법
+
+1. 초록색 <> Code 버튼을 누르고 Download ZIP 클릭
+   <img width="529" height="370" alt="Image" src="https://github.com/user-attachments/assets/8871ed1a-e597-491b-b55e-4c5557925904" />
+
+2. 폴더명은 뒤에 -main 남겨도 되고 지워도 됨. 지우는게 깔끔하겠네요~
+   <img width="350" height="86" alt="Image" src="https://github.com/user-attachments/assets/d8ba7e7c-727b-4766-8840-080c786ed46e" />
+
+#
+
+
 구글링하면 나오는 사이트들 돈 내야 노래 풀로 변환 가능하던데(아님 말고), 괘씸해서 직접 코덱스로 짬.
 
 기타 타브 귀카피는 좀 빡쌜거 같고(리듬기타랑 리드 기타 구분이 안되고 약간 물빠진 소리로 들리는데, 이건 어쩔 수 없는 부분), 베이스는 하기 편할 거임.
