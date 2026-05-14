@@ -52,6 +52,24 @@ python -m venv .venv
 <br>
 <p>&nbsp;</p>
 
+이러면 cmd 창에 텍스트들이 좌르르 뜰겁니다. 
+
+<img width="830" height="695" alt="image" src="https://github.com/user-attachments/assets/9d89e130-02ef-4abe-9d45-ba6b458ef645" />
+
+<br>
+<p>&nbsp;</p>
+완료되면 아래의 텍스트가 뜨고 멈춥니다.
+
+<img width="523" height="95" alt="image" src="https://github.com/user-attachments/assets/a7752913-a4b8-4e3a-8bc0-ed14972dfcfd" />
+
+<br>
+<p>&nbsp;</p>
+
+6. 이제 start_syebis 파일을 더블 클릭하면 cmd 창이 나오고 로컬 서버가 실행됩니다.
+
+<img width="168" height="193" alt="image" src="https://github.com/user-attachments/assets/96c5d2cf-4203-4f75-97be-946de785e224" />
+
+
 #
 
 
