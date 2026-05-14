@@ -1,4 +1,4 @@
-<img width="1199" height="839" alt="image" src="https://github.com/user-attachments/assets/5b274e49-eac0-4a16-b4e6-1d89371117c9" /># 노래 악기 분리기
+# 노래 악기 분리기
 
 노래 악기 사운드 조절해서 악보 따는 용으로 만듦.
 
