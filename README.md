@@ -80,6 +80,7 @@ python -m venv .venv
 <img width="843" height="409" alt="image" src="https://github.com/user-attachments/assets/5c79fc6c-173a-4e38-b493-5002f54acd66" />
 
 <br>
+<br>
 
 
 <img width="846" height="249" alt="image" src="https://github.com/user-attachments/assets/9651ec66-525f-4dbf-b841-54759a15a87c" />
@@ -94,7 +95,8 @@ python -m venv .venv
 
 6. 이제 cmd 창을 꺼도됩니다. 그 후 start_syebis 파일을 더블 클릭하면 cmd 창이 나오고 로컬 서버가 실행됩니다.
 
-<img width="168" height="193" alt="image" src="https://github.com/user-attachments/assets/96c5d2cf-4203-4f75-97be-946de785e224" />
+<img width="256" height="260" alt="image" src="https://github.com/user-attachments/assets/a5ba78f6-45e4-4a23-a942-4a5189934ade" />
+
 
 <br>
 
@@ -113,6 +115,10 @@ http://127.0.0.1:8000
 
 <br>
 <p>&nbsp;</p>
+
+# 사용 방법
+
+
 
 
 # 잡담과 팁
