@@ -65,9 +65,32 @@ python -m venv .venv
 <br>
 <p>&nbsp;</p>
 
+5.1. 그래픽카드 사용 중이라면, 현재 cmd 창에서 아래의 명령어를 복붙 후 엔터키 누르세요
+
+```bat
+.\.venv\Scripts\python install_gpu_torch.py
+```
+
 6. 이제 start_syebis 파일을 더블 클릭하면 cmd 창이 나오고 로컬 서버가 실행됩니다.
 
 <img width="168" height="193" alt="image" src="https://github.com/user-attachments/assets/96c5d2cf-4203-4f75-97be-946de785e224" />
+
+<br>
+
+실행하면 아래의 경고창이 뜨는데, 항상 확인 체크 해제하고 실행해주세요. 국민대 소프트웨어융합대학 이름을 걸고 바이러스 절대 아님.
+
+<img width="471" height="343" alt="image" src="https://github.com/user-attachments/assets/053ec30d-0946-45b9-a186-f1c25106241c" />
+
+<br>
+<p>&nbsp;</p>
+
+7. 다음의 주소를 브라우저 창 주소에 복붙하세요
+
+```text
+http://127.0.0.1:8000
+```
+
+
 
 
 #
