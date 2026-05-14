@@ -54,6 +54,8 @@ python -m venv .venv
 
 종료하려면 Ctrl + c 누르세요.
 
+<img width="689" height="252" alt="Image" src="https://github.com/user-attachments/assets/4b8c0a4c-4a3a-4efa-9a4d-a8760c1269cf" />
+
 
 실행되면 브라우저에서 아래 주소로 들어가면 됨. 👍
 
