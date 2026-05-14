@@ -67,11 +67,32 @@ python -m venv .venv
 
 5.1. 그래픽카드 사용 중이라면, 현재 cmd 창에서 아래의 명령어를 복붙 후 엔터키 누르세요
 
+
 ```bat
 .\.venv\Scripts\python install_gpu_torch.py
 ```
 
-6. 이제 start_syebis 파일을 더블 클릭하면 cmd 창이 나오고 로컬 서버가 실행됩니다.
+<br>
+<p>&nbsp;</p>
+
+그럼 텍스트가 막 뜨면서 뭔가를 설치합니다.
+
+<img width="843" height="409" alt="image" src="https://github.com/user-attachments/assets/5c79fc6c-173a-4e38-b493-5002f54acd66" />
+
+<br>
+
+
+<img width="846" height="249" alt="image" src="https://github.com/user-attachments/assets/9651ec66-525f-4dbf-b841-54759a15a87c" />
+
+
+(완료된 모습)
+
+
+<br>
+<p>&nbsp;</p>
+
+
+6. 이제 cmd 창을 꺼도됩니다. 그 후 start_syebis 파일을 더블 클릭하면 cmd 창이 나오고 로컬 서버가 실행됩니다.
 
 <img width="168" height="193" alt="image" src="https://github.com/user-attachments/assets/96c5d2cf-4203-4f75-97be-946de785e224" />
 
@@ -90,10 +111,11 @@ python -m venv .venv
 http://127.0.0.1:8000
 ```
 
+<br>
+<p>&nbsp;</p>
 
 
-
-#
+# 잡담과 팁
 
 
 구글링하면 나오는 사이트들 돈 내야 노래 풀로 변환 가능하던데(아님 말고), 괘씸해서 직접 코덱스로 짬.
@@ -119,48 +141,4 @@ Q. 노래 음원은 어디서 받아요?
 A. 유튜브 링크 복사하면 mp3변환해주는 사이트들 많으니 그거 이용하면 됩니다. (추천하는 곳은 cnvmp3.com)
 
 
-## 처음 설치
 
-윈도우 검색에서 `cmd` 검색하면 명령 프롬프트라고 나오는데, 이거 실행 후 다운받은 폴더 안의 `backend` 폴더로 들어가면 됩니다.
-
-예를 들어 바탕화면에 받았으면 대충 이런 식입니다.
-아래의 명령어 cmd에 그대로 복붙하세요.
-
-```bat
-cd Desktop\cyEbis\backend
-```
-
-그 다음 처음 한 번만 아래 명령어들을 순서대로 입력하면 됩니다.
-
-```bat
-python -m venv .venv
-.\.venv\Scripts\python -m pip install --upgrade pip
-.\.venv\Scripts\python -m pip install -r requirements.txt
-```
-
-## 실행하는 법
-
-설치가 끝났으면 `backend` 폴더에서 아래 명령어를 복붙하면 됩니다.
-
-```bat
-.\.venv\Scripts\python -m uvicorn app.main:app --host 127.0.0.1 --port 8000
-```
-
-종료하려면 Ctrl + c 누르세요.
-
-<img width="689" height="252" alt="Image" src="https://github.com/user-attachments/assets/4b8c0a4c-4a3a-4efa-9a4d-a8760c1269cf" />
-
-
-실행되면 브라우저에서 아래 주소로 들어가면 됨. 👍
-
-```text
-http://127.0.0.1:8000
-```
-
-## GPU 관련
-
-GPU를 제대로 쓰려면 CUDA 지원되는 PyTorch가 설치되어 있어야 합니다.
-
-그냥 `requirements.txt`만 설치하면 환경에 따라 CPU 버전 PyTorch로 깔릴 수 있습니다. 이 경우 앱은 CPU로도 돌아가긴 하는데 느릴 수 있음.
-
-GPU 세팅은 컴퓨터마다 달라서, NVIDIA 그래픽카드 쓰는 사람은 PyTorch 공식 설치 안내에서 자기 CUDA 버전에 맞는 명령어로 설치하는 게 좋습니다.
