@@ -5,10 +5,12 @@
 # 다운 방법
 
 1. 초록색 <> Code 버튼을 누르고 Download ZIP 클릭
-   <img width="529" height="370" alt="Image" src="https://github.com/user-attachments/assets/8871ed1a-e597-491b-b55e-4c5557925904" />
+
+<img width="529" height="370" alt="Image" src="https://github.com/user-attachments/assets/8871ed1a-e597-491b-b55e-4c5557925904" />
 
 2. 폴더명은 뒤에 -main 남겨도 되고 지워도 됨. 지우는게 깔끔하겠네요~
-   <img width="350" height="86" alt="Image" src="https://github.com/user-attachments/assets/d8ba7e7c-727b-4766-8840-080c786ed46e" />
+
+<img width="350" height="86" alt="Image" src="https://github.com/user-attachments/assets/d8ba7e7c-727b-4766-8840-080c786ed46e" />
 
 #
 
