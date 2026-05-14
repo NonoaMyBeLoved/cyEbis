@@ -10,9 +10,13 @@
 <img width="529" height="370" alt="Image" src="https://github.com/user-attachments/assets/8871ed1a-e597-491b-b55e-4c5557925904" />
 
 
+
+
 2. 폴더명은 뒤에 -main 남겨도 되고 지워도 됨. 지우는게 깔끔하겠네요~
 
 <img width="350" height="86" alt="Image" src="https://github.com/user-attachments/assets/d8ba7e7c-727b-4766-8840-080c786ed46e" />
+
+
 
 
 3. 압축을 풀면 안에 또 이런 폴더가 있는데 -main은 지우고 폴더명이 cyEbis가 되도록.
@@ -20,9 +24,13 @@
 <img width="84" height="86" alt="Image" src="https://github.com/user-attachments/assets/1ddfe5c7-f647-4eb6-845b-9ab7b2ad32b8" />
 
 
+
+
 4. cyEbis 폴더에 들어가면 backend 라는 폴더가 있습니다. 이 폴더 안으로 들어간 뒤 위에 보이는 주소장에서 cmd를 입력하고 엔터키를 누르세요.
 
 <img width="735" height="380" alt="Image" src="https://github.com/user-attachments/assets/4744c367-0d44-45a1-a694-3af825a24853" />
+
+
 
 #
 
