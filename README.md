@@ -157,6 +157,16 @@ http://127.0.0.1:8000
 <br>
 <p>&nbsp;</p>
 
+😺 4. 종료하려면 cmd 창에서 Ctrl + c를 눌러줍니다. 그 뒤 y입력 후 엔터 누르면 됩니다.
+
+<br>
+
+<img width="396" height="104" alt="image" src="https://github.com/user-attachments/assets/ee4ac132-9a2e-42e3-855b-a93e67a621b4" />
+
+<br>
+<p>&nbsp;</p>
+
+
 # 잡담과 사용팁
 
 
