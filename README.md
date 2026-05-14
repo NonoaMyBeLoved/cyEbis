@@ -58,7 +58,7 @@ python -m venv .venv
 
 <br>
 <p>&nbsp;</p>
-완료되면 아래의 텍스트가 뜨고 멈춥니다.
+완료되면 다음의 텍스트가 뜨고 멈춥니다.
 
 <img width="523" height="95" alt="image" src="https://github.com/user-attachments/assets/a7752913-a4b8-4e3a-8bc0-ed14972dfcfd" />
 
