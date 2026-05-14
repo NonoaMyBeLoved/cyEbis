@@ -22,6 +22,8 @@
 
 4. cyEbis 폴더에 들어가면 backend 라는 폴더가 있습니다. 이 폴더 안으로 들어간 뒤 위에 보이는 주소장에서 cmd를 입력하고 엔터키를 누르세요.
 
+<img width="735" height="380" alt="Image" src="https://github.com/user-attachments/assets/4744c367-0d44-45a1-a694-3af825a24853" />
+
 #
 
 
